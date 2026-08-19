@@ -61,3 +61,16 @@ The project stores student details, courses, marks, CGPA, and technical skills.
 ## Author
 
 Yeshwanth
+## Screenshots
+
+### Student Profile
+![Student Profile](screenshots/student-profile.png)
+
+### SQL Query Result 1
+![SQL Query Result 1](screenshots/Screenshot%202026-08-19%20202258.png)
+
+### SQL Query Result 2
+![SQL Query Result 2](screenshots/Screenshot%202026-08-19%20202600.png)
+
+### SQL Query Result 3
+![SQL Query Result 3](screenshots/Screenshot%202026-08-19%20202701.png)
